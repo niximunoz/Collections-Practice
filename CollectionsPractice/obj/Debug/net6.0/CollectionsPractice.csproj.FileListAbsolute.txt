@@ -1,0 +1,15 @@
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.exe
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.deps.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.runtimeconfig.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.csproj.AssemblyReference.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.AssemblyInfoInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.AssemblyInfo.cs
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\refint\CollectionsPractice.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.genruntimeconfig.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\16-Collections Practice\CollectionsPractice\obj\Debug\net6.0\ref\CollectionsPractice.dll
